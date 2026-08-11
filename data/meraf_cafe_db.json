@@ -1,0 +1,398 @@
+{
+  "users": [
+    {
+      "id": "0377e9a1-6e7f-45ad-81ca-7b5d25981ace",
+      "name": "Abebe Bikila (Owner)",
+      "email": "owner@merafcafe.com",
+      "role": "OWNER",
+      "createdAt": "2026-08-11T10:25:04.535Z",
+      "updatedAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "6ed1bc01-f9a4-4b37-b22a-8a3c95a1db02",
+      "name": "Tigist Alemu (Manager)",
+      "email": "manager@merafcafe.com",
+      "role": "MANAGER",
+      "createdAt": "2026-08-11T10:25:04.536Z",
+      "updatedAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "38557560-819e-4971-b992-8fa9404271ca",
+      "name": "Dawit Yohannes (Staff)",
+      "email": "staff@merafcafe.com",
+      "role": "STAFF",
+      "createdAt": "2026-08-11T10:25:04.536Z",
+      "updatedAt": "2026-08-11T10:25:04.536Z"
+    }
+  ],
+  "userPasswords": {
+    "0377e9a1-6e7f-45ad-81ca-7b5d25981ace": "$2b$10$typ3rVeTAwROetKfHVvRWet2lzsLIE0a8b78Mim2lB0OmWhIcFlli",
+    "6ed1bc01-f9a4-4b37-b22a-8a3c95a1db02": "$2b$10$typ3rVeTAwROetKfHVvRWet2lzsLIE0a8b78Mim2lB0OmWhIcFlli",
+    "38557560-819e-4971-b992-8fa9404271ca": "$2b$10$KG1tuhvfeFHsxyoKP.gwWO9Wz.PMc5DY7L3roOUBxitTQwZX.URHG"
+  },
+  "tables": [
+    {
+      "id": "97b9eae1-4fb7-4285-a73b-5ecbdb4d8a7f",
+      "tableNumber": "01",
+      "token": "tbl_meraf_tok_01_d54dd967",
+      "isActive": true,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "70318f7f-f67e-40a6-9cce-468fee92afe2",
+      "tableNumber": "02",
+      "token": "tbl_meraf_tok_02_1fe7e175",
+      "isActive": true,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "cc84fd69-3322-499e-b5c1-bd798879fd27",
+      "tableNumber": "03",
+      "token": "tbl_meraf_tok_03_b7daf648",
+      "isActive": true,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "f40803ba-89db-4e12-ab48-4bcc8c4f80a9",
+      "tableNumber": "04",
+      "token": "tbl_meraf_tok_04_4ee669df",
+      "isActive": true,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "893cac09-71bc-4d11-9f72-f275fdad0238",
+      "tableNumber": "05",
+      "token": "tbl_meraf_tok_05_c6ff00f3",
+      "isActive": true,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "8234f16f-32e1-42ad-a275-23111958f8c3",
+      "tableNumber": "06",
+      "token": "tbl_meraf_tok_06_52269bf3",
+      "isActive": true,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "ead545d2-883c-462a-8ae7-83a1bf5191cf",
+      "tableNumber": "07",
+      "token": "tbl_meraf_tok_07_d034a57b",
+      "isActive": true,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "203881fb-d891-4793-8953-bd9fa83f18cc",
+      "tableNumber": "08",
+      "token": "tbl_meraf_tok_08_b2980cc4",
+      "isActive": true,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "0d031fd0-0b0e-4abe-ba47-1cc2cf060920",
+      "tableNumber": "09",
+      "token": "tbl_meraf_tok_09_36242a4e",
+      "isActive": true,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "71e42933-b316-47a7-8508-1cc38c2102a0",
+      "tableNumber": "10",
+      "token": "tbl_meraf_tok_10_cffecc6f",
+      "isActive": true,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "154a64e5-0b82-47d4-ac4e-f3c491d89e08",
+      "nameEn": "Ethiopian Coffee & Espresso",
+      "nameAm": "የኢትዮጵያ ቡና እና ኤስፕሬሶ",
+      "displayOrder": 1,
+      "isHidden": false,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "b3c8eef5-450a-4d4e-a5e5-e7ea9d264ca3",
+      "nameEn": "Specialty Teas",
+      "nameAm": "ልዩ የሻይ አይነቶች",
+      "displayOrder": 2,
+      "isHidden": false,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "c6f04cda-28da-4bb2-bd5e-762f1197b781",
+      "nameEn": "Traditional Breakfast",
+      "nameAm": "ባህላዊ ቁርስ",
+      "displayOrder": 3,
+      "isHidden": false,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "8327f688-f6d8-4ffb-90e8-f5aa8e1e41e3",
+      "nameEn": "Lunch & Special Dishes",
+      "nameAm": "የምሳ ምግቦች",
+      "displayOrder": 4,
+      "isHidden": false,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "9fdf8d76-2afd-4db5-b423-5ab06bfd6aaf",
+      "nameEn": "Juices & Smoothies",
+      "nameAm": "ጭማቂዎች እና ስሙዚ",
+      "displayOrder": 5,
+      "isHidden": false,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "3d38e88f-025c-483e-97db-368dfb1b0814",
+      "nameEn": "Pastries & Desserts",
+      "nameAm": "ኬኮች እና ጣፋጮች",
+      "displayOrder": 6,
+      "isHidden": false,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "daad14aa-4e8b-4be2-99ae-2c7fa569d0d3",
+      "categoryId": "154a64e5-0b82-47d4-ac4e-f3c491d89e08",
+      "nameEn": "Ethiopian Macchiato",
+      "nameAm": "ኢትዮጵያዊ ማኪያቶ",
+      "descriptionEn": "Rich, layered Ethiopian espresso topped with velvety steamed milk foam.",
+      "descriptionAm": "በጥራት ከተጠበሰ የኢትዮጵያ ቡና የተሰራ በወተት የተሸፈነ ማኪያቶ።",
+      "priceEtb": 45,
+      "imageUrl": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?auto=format&fit=crop&q=80&w=800",
+      "isAvailable": true,
+      "isFeatured": true,
+      "prepTimeMins": 4,
+      "variations": [
+        {
+          "id": "55e3dec1-6585-4a06-8025-50ef9d202ff4",
+          "productId": "",
+          "nameEn": "Small",
+          "nameAm": "ትናንሽ",
+          "priceEtb": 40
+        },
+        {
+          "id": "b27599ce-2c40-43f2-af2c-9a05d4b4f510",
+          "productId": "",
+          "nameEn": "Medium",
+          "nameAm": "መካከለኛ",
+          "priceEtb": 45
+        },
+        {
+          "id": "c2403a06-bf01-4ccf-906f-175213b11985",
+          "productId": "",
+          "nameEn": "Large Double",
+          "nameAm": "ትልቅ ድርብ",
+          "priceEtb": 60
+        }
+      ],
+      "addOnIds": [
+        "88ca205b-8e6c-4fe1-9282-993bb0df9ad8",
+        "495eea91-b9ff-4d74-9f09-a7a420c82111"
+      ],
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "b5eb03b4-f436-459d-bebe-28a2167838dc",
+      "categoryId": "154a64e5-0b82-47d4-ac4e-f3c491d89e08",
+      "nameEn": "Traditional Jebena Buna",
+      "nameAm": "የጀበና ቡና",
+      "descriptionEn": "Freshly roasted Ethiopian coffee beans brewed ceremonially in a traditional Jebena pot.",
+      "descriptionAm": "በትኩሱ የተቆላና የተፈጨ ባህላዊ የጀበና ቡና ከእጣን ጠረን ጋር።",
+      "priceEtb": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&q=80&w=800",
+      "isAvailable": true,
+      "isFeatured": true,
+      "prepTimeMins": 5,
+      "addOnIds": [
+        "9f128379-f2f3-4cc1-a512-276710739958"
+      ],
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "d8665b6d-b921-4bd2-9196-bf99d4b1de62",
+      "categoryId": "b3c8eef5-450a-4d4e-a5e5-e7ea9d264ca3",
+      "nameEn": "Ethiopian Spice Tea (Shai)",
+      "nameAm": "የቅመም ሻይ",
+      "descriptionEn": "Black tea infused with cardamom, cinnamon, cloves, and ginger.",
+      "descriptionAm": "በኮረሪማ፣ ቀረፋ፣ ቅርንፉድ እና ዝንጅብል የተቀመመ ባህላዊ ሻይ።",
+      "priceEtb": 30,
+      "imageUrl": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&q=80&w=800",
+      "isAvailable": true,
+      "isFeatured": false,
+      "prepTimeMins": 3,
+      "addOnIds": [
+        "9f128379-f2f3-4cc1-a512-276710739958"
+      ],
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "6a5da95e-98a0-4979-b851-5cc9222505e4",
+      "categoryId": "c6f04cda-28da-4bb2-bd5e-762f1197b781",
+      "nameEn": "Chechebsa with Kibe & Honey",
+      "nameAm": "ጨጨብሳ በቅቤ እና ማር",
+      "descriptionEn": "Shredded flatbread cooked in spiced butter (Kibe), berbere, and drizzled with organic honey.",
+      "descriptionAm": "በንጹህ የሀገር ቅቤ፣ በርበሬ እና በማር የተሰራ ጣፋጭ የቁርስ ምግብ።",
+      "priceEtb": 140,
+      "imageUrl": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=800",
+      "isAvailable": true,
+      "isFeatured": true,
+      "prepTimeMins": 10,
+      "addOnIds": [
+        "fa532045-ca0c-44eb-9008-e137488546e2",
+        "9f128379-f2f3-4cc1-a512-276710739958"
+      ],
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "e464a82e-cedc-46a0-8d8d-84fb916fa66c",
+      "categoryId": "c6f04cda-28da-4bb2-bd5e-762f1197b781",
+      "nameEn": "Special Ful Medames",
+      "nameAm": "ስፔሻል ፉል",
+      "descriptionEn": "Slow-cooked fava beans with fresh tomatoes, onions, green chili, boiled egg, and Kibe.",
+      "descriptionAm": "በቀይ ሽንኩርት፣ ቲማቲም፣ ቃሪያ፣ እንቁላል እና ቅቤ የተቀመመ ስፔሻል ፉል ከዳቦ ጋር።",
+      "priceEtb": 120,
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=800",
+      "isAvailable": true,
+      "isFeatured": false,
+      "prepTimeMins": 8,
+      "addOnIds": [
+        "fa532045-ca0c-44eb-9008-e137488546e2"
+      ],
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "4108318c-dbb4-40c1-a3b4-e1d6f28f9ec4",
+      "categoryId": "8327f688-f6d8-4ffb-90e8-f5aa8e1e41e3",
+      "nameEn": "Bole Special Club Sandwich",
+      "nameAm": "ቦሌ ስፔሻል ክለብ ሳንድዊች",
+      "descriptionEn": "Triple-decker sandwich with chicken breast, fried egg, cheese, lettuce, and crispy fries.",
+      "descriptionAm": "በዶሮ ስጋ፣ እንቁላል፣ ቺዝ እና ድንች ጥብስ የተዘጋጀ ልዩ ሳንድዊች።",
+      "priceEtb": 220,
+      "imageUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&q=80&w=800",
+      "isAvailable": true,
+      "isFeatured": true,
+      "prepTimeMins": 15,
+      "addOnIds": [
+        "fa532045-ca0c-44eb-9008-e137488546e2"
+      ],
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "3261a0d4-5990-442c-a74b-cbe0f02743b4",
+      "categoryId": "9fdf8d76-2afd-4db5-b423-5ab06bfd6aaf",
+      "nameEn": "Fresh Mango & Avocado Spris",
+      "nameAm": "ስፕሪስ (ማንጎ እና አቮካዶ)",
+      "descriptionEn": "Layered freshly squeezed Ethiopian avocado and mango smoothie with lime.",
+      "descriptionAm": "በጥራት ከተመረጡ ፍራፍሬዎች የተጨመቀ ድርብ አቮካዶ እና ማንጎ ስፕሪስ።",
+      "priceEtb": 90,
+      "imageUrl": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?auto=format&fit=crop&q=80&w=800",
+      "isAvailable": true,
+      "isFeatured": true,
+      "prepTimeMins": 5,
+      "addOnIds": [
+        "9f128379-f2f3-4cc1-a512-276710739958"
+      ],
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    },
+    {
+      "id": "9cfea939-03bc-4360-8c51-dbf1fa893a88",
+      "categoryId": "3d38e88f-025c-483e-97db-368dfb1b0814",
+      "nameEn": "Meraf Black Forest Cake",
+      "nameAm": "መራፍ ብላክ ፎረስት ኬክ",
+      "descriptionEn": "Decadent chocolate sponge layered with whipped cream and sweet cherries.",
+      "descriptionAm": "በጣፋጭ ቸኮሌት እና ክሬም የተሰራ ለስላሳ ኬክ።",
+      "priceEtb": 110,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&q=80&w=800",
+      "isAvailable": true,
+      "isFeatured": false,
+      "prepTimeMins": 2,
+      "createdAt": "2026-08-11T10:25:04.536Z"
+    }
+  ],
+  "productVariations": [],
+  "addOns": [
+    {
+      "id": "88ca205b-8e6c-4fe1-9282-993bb0df9ad8",
+      "nameEn": "Extra Steamed Milk",
+      "nameAm": "ተጨማሪ የሞቀ ወተት",
+      "priceEtb": 15,
+      "isActive": true
+    },
+    {
+      "id": "495eea91-b9ff-4d74-9f09-a7a420c82111",
+      "nameEn": "Extra Espresso Shot",
+      "nameAm": "ተጨማሪ ኤስፕሬሶ",
+      "priceEtb": 20,
+      "isActive": true
+    },
+    {
+      "id": "fa532045-ca0c-44eb-9008-e137488546e2",
+      "nameEn": "Extra Cheese",
+      "nameAm": "ተጨማሪ ቺዝ",
+      "priceEtb": 30,
+      "isActive": true
+    },
+    {
+      "id": "9f128379-f2f3-4cc1-a512-276710739958",
+      "nameEn": "Organic Honey",
+      "nameAm": "ተፈጥሯዊ ማር",
+      "priceEtb": 25,
+      "isActive": true
+    }
+  ],
+  "productAddOns": {
+    "daad14aa-4e8b-4be2-99ae-2c7fa569d0d3": [
+      "88ca205b-8e6c-4fe1-9282-993bb0df9ad8",
+      "495eea91-b9ff-4d74-9f09-a7a420c82111"
+    ],
+    "b5eb03b4-f436-459d-bebe-28a2167838dc": [
+      "9f128379-f2f3-4cc1-a512-276710739958"
+    ],
+    "d8665b6d-b921-4bd2-9196-bf99d4b1de62": [
+      "9f128379-f2f3-4cc1-a512-276710739958"
+    ],
+    "6a5da95e-98a0-4979-b851-5cc9222505e4": [
+      "fa532045-ca0c-44eb-9008-e137488546e2",
+      "9f128379-f2f3-4cc1-a512-276710739958"
+    ],
+    "e464a82e-cedc-46a0-8d8d-84fb916fa66c": [
+      "fa532045-ca0c-44eb-9008-e137488546e2"
+    ],
+    "4108318c-dbb4-40c1-a3b4-e1d6f28f9ec4": [
+      "fa532045-ca0c-44eb-9008-e137488546e2"
+    ],
+    "3261a0d4-5990-442c-a74b-cbe0f02743b4": [
+      "9f128379-f2f3-4cc1-a512-276710739958"
+    ]
+  },
+  "orders": [],
+  "payments": [],
+  "notifications": [],
+  "auditLogs": [
+    {
+      "id": "7966bb75-190f-47b6-9933-2feaf65d58db",
+      "userId": "0377e9a1-6e7f-45ad-81ca-7b5d25981ace",
+      "userEmail": "owner@merafcafe.com",
+      "action": "SYSTEM_INIT",
+      "details": "Initial system deployment and database seeding for Meraf Cafe completed.",
+      "timestamp": "2026-08-11T10:25:04.536Z"
+    }
+  ],
+  "settings": {
+    "cafeName": "MERAF CAFE",
+    "logoUrl": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&q=80&w=200",
+    "phone": "+251 91 123 4567",
+    "address": "Rafael shegole, Addis Ababa, Ethiopia",
+    "openingHoursEn": "Mon - Sun: 7:00 AM - 10:00 PM EAT",
+    "openingHoursAm": "ሰኞ - እሑድ፡ ከጠዋቱ 1:00 - ማታ 4:00 ሰዓት",
+    "currency": "ETB",
+    "taxRatePercent": 0,
+    "serviceChargePercent": 0,
+    "isClosed": false,
+    "closedReasonEn": "We are currently closed for maintenance.",
+    "closedReasonAm": "ለጥገና ስራ በአሁኑ ሰዓት ዝግ ነን።"
+  }
+}

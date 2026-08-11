@@ -1,0 +1,6 @@
+{
+  "name": "Meraf Cafe - QR Ordering & Management System",
+  "description": "Full-stack QR code ordering, real-time kitchen display, staff management, and admin sales analytics platform for Meraf Cafe in Addis Ababa, Ethiopia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

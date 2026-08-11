@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="40" fill="#0A0A0A" />
+  <circle cx="96" cy="96" r="72" fill="#18181B" stroke="#D97706" stroke-width="4" />
+  <!-- Coffee Cup Icon -->
+  <path d="M60 76h64v32a24 24 0 0 1-24 24H84a24 24 0 0 1-24-24V76z" fill="#D97706" />
+  <path d="M124 84h12a12 12 0 0 1 0 24h-12V84z" fill="none" stroke="#D97706" stroke-width="4" stroke-linecap="round" />
+  <!-- Steam Curves -->
+  <path d="M76 60c0-6 4-8 4-14s-4-8-4-14" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" fill="none" />
+  <path d="M96 56c0-6 4-8 4-14s-4-8-4-14" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" fill="none" />
+  <path d="M116 60c0-6 4-8 4-14s-4-8-4-14" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" fill="none" />
+</svg>
